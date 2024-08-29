@@ -1,0 +1,30 @@
+body{
+    /* background-repeat: no-repeat; */
+    background-position: fixed;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+
+
+table{
+   
+    text-align: center;
+    background-color: transparent !important;
+    border-collapse: collapse !important;
+    box-shadow: 0 0 5px rgb(245, 245, 245) !important;
+    /* border: none !important; */
+   
+}
+th,td{
+    padding: 15px 10px !important;
+    background-color: transparent !important;
+    color: rgb(255, 255, 255) !important;
+    box-shadow: 0 0 10px rgb(245, 245, 245) !important;
+}
+.btn{
+    /* box-shadow: 0 0 10px rgb(245, 245, 245) !important; */
+    color: white !important;
+}
+.btn:hover{
+    box-shadow: 0 0 20px rgb(255, 255, 255) !important;
+}
